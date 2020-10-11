@@ -18,10 +18,6 @@ public class OpenHomePageTests extends TestBase{
         //wd.findElement(By.cssSelector(".Main_mainpage__find_your_car__AHLkw form"));
         System.out.println("FindCarForm : " + isFindCarFormPresent());
         isFindCarFormPresent2();
-
-
     }
-
-
 }
 
